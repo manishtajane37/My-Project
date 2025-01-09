@@ -1,2 +1,2 @@
-# My-Project
+# Demo-Project
 this is my first Repository on GitHub
